@@ -1,0 +1,16 @@
+{
+  "name": "analizador",
+  "version": "1.0.0",
+  "description": "analziador lexico",
+  "main": "analizador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "author": "Mauro Soler",
+  "license": "ISC",
+  "keywords": []
+}
